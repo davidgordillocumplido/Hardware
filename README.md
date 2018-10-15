@@ -7,6 +7,6 @@
 * Es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto, y garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software.
 
 
-# ¿Diferencias?
+## ¿Diferencias?
 
-GNU no es una licencia, es una "organizacion" (www.gnu.org). GPL es una licencia, exactamente la GNU Public Licence. Como todas las licencias, tiene un texto que explica su ambito de aplicacion.
+* GNU no es una licencia, es una "organizacion" (www.gnu.org). GPL es una licencia, exactamente la GNU Public Licence. Como todas las licencias, tiene un texto que explica su ambito de aplicacion.
