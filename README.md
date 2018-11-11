@@ -1,12 +1,30 @@
-## ¿Que es GNU?
-
-* GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios. El sistema operativo GNU consiste en paquetes de GNU (programas publicados específicamente por el proyecto GNU) además de software libre publicado por terceras partes. El desarrollo de GNU ha permitido que se pueda utilizar un ordenador sin software que atropelle nuestra libertad.
-  
-## ¿Que es GPL? 
-
-* Es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto, y garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software.
 
 
-## ¿Diferencias?
+# Hardware
 
-* GNU no es una licencia, es una "organizacion" (www.gnu.org). GPL es una licencia, exactamente la GNU Public Licence. Como todas las licencias, tiene un texto que explica su ambito de aplicacion.
+
+
+
+## CPU
+
+### Dos posibles :
+
+-CPU 32 bits : Es una cpu antigua y solo se puede pasar archivos máximos de 4 GB
+
+-Cpu 64 bits : Mas reciente , la capacidad máxima es todavia imposible de llegar ya que es un numero muy alto
+
+-En caso de que tengas 64 bits puedes poner tanto de 32 bits para que se ajuste mejor a tu pc o 64 bits, en cambio en el de 32 bits solamente se puede instalar 32 bits porque no puede conseguir mas capacidad de lo que tiene.
+
+-Si tienes 8GB de CPU lo maximo que te puede detectar en una CPU de 32 bits es 4 GB
+
+## Particiones
+
+-Antiguamente en MBR - Bios - Dos solo se podian crear particiones de 2TB maximo , con 2 TB lo maximo que podrias hacer es 4 particiones de 2 TB
+
+-Actualmente en UEFI - GPT  es un tamaño mucho mas grande de la antigua ya que cuenta con mas de 9 TB por partición
+
+
+## Fat32 
+
+-Siempre que veamos un 32 en una palabra significa que el tamaño máximo de archivos es de 4 GB
+
