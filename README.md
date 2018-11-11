@@ -1,30 +1,26 @@
+# Comandos
+
+## lshw
+
+lshw es un comando común a casi todas las distribuciones de Linux, que permite mostrar información completa sobre todo el hardware de nuestro ordenador: velocidad de los núcleos de la CPU, memoria RAM disponible, tamaño de los discos duros y sus particiones, tamaño de la caché, etcétera.
+
+<img src="http://images.hotfixed.net/images/lshw.png" />
 
 
-# Hardware
+## lshw-gui
 
+lshw-gui es un comando parecido al lshw pero en cambio este comando se busca la información a partir de pestañas.
 
+<img src="https://ezix.org/project/raw-attachment/wiki/HardwareLiSter/gtk-lshw.png" />
 
+## Cpu -z
 
-## CPU
+Es una aplicación gratuita que nos muestra información sobre el hardware de nuestro equipo. Es un programa muy ligero (ocupa tan solo 862 KB) y no requiere instalación, simplemente se copia al disco duro y se ejecuta el archivo sin instalar nada adicional y sin dejar rastro en el registro de Windows
 
-### Dos posibles :
+<img src="https://www.tuexperto.com/wp-content/uploads/2011/10/CPU-Z-01.jpg" />
 
--CPU 32 bits : Es una cpu antigua y solo se puede pasar archivos máximos de 4 GB
+## Speecy
 
--Cpu 64 bits : Mas reciente , la capacidad máxima es todavia imposible de llegar ya que es un numero muy alto
+Muestra al usuario especificaciones acerca del hardware y el software de su equipo.
 
--En caso de que tengas 64 bits puedes poner tanto de 32 bits para que se ajuste mejor a tu pc o 64 bits, en cambio en el de 32 bits solamente se puede instalar 32 bits porque no puede conseguir mas capacidad de lo que tiene.
-
--Si tienes 8GB de CPU lo maximo que te puede detectar en una CPU de 32 bits es 4 GB
-
-## Particiones
-
--Antiguamente en MBR - Bios - Dos solo se podian crear particiones de 2TB maximo , con 2 TB lo maximo que podrias hacer es 4 particiones de 2 TB
-
--Actualmente en UEFI - GPT  es un tamaño mucho mas grande de la antigua ya que cuenta con mas de 9 TB por partición
-
-
-## Fat32 
-
--Siempre que veamos un 32 en una palabra significa que el tamaño máximo de archivos es de 4 GB
-
+<img src="http://www.cleartechinfo.com/wp-content/uploads/2014/07/Speccy-Lookup-Info.jpg" />
